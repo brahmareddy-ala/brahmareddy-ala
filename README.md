@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brahmareddy-ala
 - 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Blockchain Technology
+- 🌱 I’m currently working in Blockchain Technology
 - 📫 How to reach me ...
 
 <!---
